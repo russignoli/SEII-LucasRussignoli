@@ -1,2 +1,2 @@
-lslsklsdklsahfkjlfhlwifu	eieurc hewiufhicwuefweiufgiweus# SEII-LucasRussignoli
+SEII-LucasRussignoli
 Sistemas Embarcados II
