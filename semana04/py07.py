@@ -1,20 +1,25 @@
+"""
+Atividade Semana 04 - Sistemas Embarcados
+Lucas Russignoli 11721EAU004
+"""
 nums = [1, 2, 3, 4, 5]
+
 
 for num in nums:
 	if num == 3:
-	print('Found!')
+		print('Encontrado.') 
 	break
 	print(num)
 
 for num in nums:
 	if num == 3:
-	print('Found!')
+		print('Encontrado.')
 	continue
 	print(num)
 
 for num in nums:
 	for letter in 'abc':
-	print(num, letter)
+		print(num, letter)
 
 for i in range(1, 11):
 	print(i)
@@ -27,7 +32,7 @@ while x < 10:
 
 while True:
 	if x == 5:
-	break
+		break
 	print(x)
 	x += 1
 
