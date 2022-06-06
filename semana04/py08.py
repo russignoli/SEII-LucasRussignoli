@@ -11,6 +11,7 @@ def is_leap(year):
 
 def days_in_mounth(year, mounth):
 
+	mounth_days = ''
 	if not 1 <= mounth <= 12:
 		return 'Invalid Month'
 
